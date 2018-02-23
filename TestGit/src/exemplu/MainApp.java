@@ -7,6 +7,7 @@ public class MainApp {
 		Persoana p=new Persoana(1, "aaa",19);
 		System.out.println(p);
 		System.out.println("----------");
+		System.out.println("+++++");
 		
 		
 	}
