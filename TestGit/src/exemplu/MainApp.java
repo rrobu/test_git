@@ -6,6 +6,8 @@ public class MainApp {
 		// TODO Auto-generated method stub
 		Persoana p=new Persoana(1, "aaa",19);
 		System.out.println(p);
+		System.out.println("----------");
+		
 		
 	}
 
